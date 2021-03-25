@@ -1,0 +1,3 @@
+id,int|pk|auto
+c2,varchar
+c1,int
